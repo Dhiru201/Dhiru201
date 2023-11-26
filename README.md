@@ -2,27 +2,41 @@
 
 I am a highly motivated Senior Software Engineer with over 8 years of experience in iOS app development, contributing to the success of more than 25+ applications. Proficient in Swift, SwiftUI and Objective-C, I specialize in designing, building, and maintaining native iOS apps.
 
-My technical expertise includes backend API integration, Socket API implementation, Google Map SDK, Core Data, Realm, version control, social authentication, CocoaPods, real-time video, image rendering, and payment gateway integration.
+Technical Expertise:
 
-In the last 1 year, I have expanded my skill set to include frontend development using JavaScript(React.js). This additional experience has allowed me to create seamless user interfaces and integrate frontend technologies with backend systems. Skilled in FrontEnd Technologies as React.js, JavaScript, HTML, CSS, Bootstrap, and Flexbox for building professional websites🖥 and front-end applications 💻.
+- Backend API integration
+- Socket API implementation
+- Google Map SDK
+- Core Data and Realm databases
+- Version control
+- Social authentication
+- CocoaPods
+- Real-time video and image rendering
+- Payment gateway integration
+
+
+In the last year, I've expanded my skill set to include frontend development using JavaScript (React.js). This additional experience allows me to seamlessly integrate frontend technologies with backend systems, utilizing React.js, JavaScript, HTML, CSS, Bootstrap, and Flexbox for building professional websites 🖥️ and front-end applications 💻.
+
+Responsibilities:
+
+- Developing new user-facing features
+- Building reusable components for future use
+- Translating designs into high-quality code
+- Optimizing the performance and size of the application
+- Team handling
+- Feature handling
+- Troubleshooting bugs
+
+Skills:
+
+- Strong proficiency in Swift, JavaScript, SwiftUI, and Objective-C
+- Familiarity with RESTful APIs
+- Ability to understand business requirements and translate them into technical requirements
+- Familiarity with common tools such as Git, Bitbucket, JIRA, Sketch, Figma.
+
 
 I am dedicated to delivering high-quality code, prioritizing clean and maintainable solutions. My adaptability to new technologies and commitment to staying current with industry trends make me a versatile software engineer ready to contribute to your projects.
 
-Responsibilities-
-- Developing new user-facing features
-- Building reusable components for future use
-- Translating designs into high quality code
-- Optimizing performance of the application
-- Optimizing App Size
-- Team Handling
-- Fetaure Handling
-- Troubleshooting the bugs
- 
-Skills-
-Strong proficiency in Swift, JavaScript, SwiftUI and Objective C
-Familiarity with RESTful APIs
-Ability to understand business requirements and translate them into technical requirements
-Familiarity with common tools such as Git, Bitbucket, JIRA, Sketch, Figma.
 
 ### Frontend Technologies
 
