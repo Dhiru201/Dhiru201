@@ -24,6 +24,33 @@ Familiarity with RESTful APIs
 Ability to understand business requirements and translate them into technical requirements
 Familiarity with common tools such as Git, Bitbucket, JIRA, Sketch, Figma.
 
+### Frontend Technologies
+
+<div>
+  <img src ="./images/swift.svg" alt="Swift logo" width="4%" title='Swift'/>
+  <img src ="./images/swiftui.svg" alt="swiftui logo" width="4%" title='SwiftUI'/>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="4%" title='Sass'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
+  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
+  <img src ="./images/redux.svg" alt="redux logo" width="4%" title='Redux'/>
+  
+<div> 
+
+### Tools
+
+<div>
+  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./images/xcode.svg" alt="xcode logo" width="4%" title='Xcode'/>
+  <img src ="./images/sourcetree.svg" alt="Sourcetree logo" width="5%" title='Sourcetree'/>
+  <img src ="./images/jira.svg" alt="Jira logo" width="5%" title='Jira'/> 
+</div>
+  
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
 <p align="left" dir="auto">
